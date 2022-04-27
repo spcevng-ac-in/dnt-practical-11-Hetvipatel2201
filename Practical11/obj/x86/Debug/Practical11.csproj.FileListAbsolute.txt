@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.notepadForm.resources
+c:\users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.replaceForm.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\bin\Debug\Practical11.exe
+C:\Users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\bin\Debug\Practical11.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.exe
+C:\Users\dell\documents\visual studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.pdb
